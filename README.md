@@ -18,4 +18,4 @@
 - Run UI:
   - Go to /frontend
   - npm install
-  - npm start dev (development) | npm start prod (production)
+  - npm run dev (development) | npm run prod (production)
